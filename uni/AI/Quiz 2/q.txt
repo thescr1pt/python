@@ -1,0 +1,6 @@
+Using the Heart_Disease dataset and Pandas:
+	1.	Convert any categorical values into numeric values for compatibility with machine learning algorithms.
+	2.	Normalize the feature ranges to avoid negatively influencing the model’s efficiency. Modify your code to handle this requirement.
+	3.	Visualize the correlation between features in the dataset.
+	4.	Based on the correlation results, select the most valuable features and remove the redundant ones to improve the model’s performance.
+	5.	Provide the final DataFrame after applying all the preprocessing requirements. Ensure the column arrangement remains the same after any updates.

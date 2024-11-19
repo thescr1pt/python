@@ -1,4 +1,4 @@
-sepal length,sepal width,petal length,petal width,label
+sepal length ,sepal width,petal length,petal width,lable
 4.7,3.2,1.3,0.2,Setosa
 4.6,3.1,1.5,0.2,Setosa
 5.4,3.9,1.7,0.4,Setosa
@@ -8,7 +8,7 @@ sepal length,sepal width,petal length,petal width,label
 4.8,3.4,1.6,0.2,Setosa
 4.3,3.0,1.1,0.1,Setosa
 5.8,4.0,1.2,0.2,Setosa
-5.7,3.0,1.5,0.4,Setosa
+5.7,4.4,1.5,0.4,Setosa
 5.4,3.9,1.3,0.4,Setosa
 5.7,3.8,1.7,0.3,Setosa
 5.4,3.4,1.7,0.2,Setosa
