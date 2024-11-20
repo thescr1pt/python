@@ -30,7 +30,7 @@ upperTri = np.triu(np.ones(correlation_matrix.shape), k=1).astype(np.bool)
 
 correlation_matrix = correlation_matrix.where(upperTri)
 
-redundant = []
+redundant = list()
 for column in correlation_matrix.columns:
     if any(correlation_matrix[column] > 0.95):
         redundant.append(column)
