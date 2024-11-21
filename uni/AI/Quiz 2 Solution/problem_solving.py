@@ -10,5 +10,5 @@ for i in range(n):
 # only print elements who appear once (non duplicates)
 print("\nNon duplicates: ")
 for i in arr:
-    if arr.count(i) == 1:
+    if arr.count(i) == 1:  # Check if their count = 1 before printing them
         print(i)
